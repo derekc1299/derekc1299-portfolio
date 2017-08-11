@@ -5,3 +5,12 @@ h1{
     color: #4183D7;
     text-align: center;
 }
+.img-circle {
+    border-radius: 50%;
+    
+}
+
+.center {
+    margin: auto;
+    text-align: center;
+}
