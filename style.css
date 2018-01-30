@@ -16,3 +16,12 @@ h1{
     margin: auto;
     text-align: center;
 }
+
+@media (max-width:575px){
+    .change_text {
+        font-size: 24px;
+    }
+    .change_subtext {
+        font-size: 14px;
+    }
+}
